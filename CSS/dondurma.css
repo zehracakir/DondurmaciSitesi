@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(198, 100, 116);
+    background-size: 100% 400%;
+}
+h1 {
+    color:white;
+    font-size: 60px;
+    font-family: 'MV Boli', sans-serif;
+    text-align:center;
+}
+h2 {
+    color:white;
+    font-size: 40px;
+    font-family: 'MV Boli', sans-serif;
+    text-align:center;
+}
+.video{
+    text-align: center;
+}
+nav{
+    text-align:center;
+
+
+}
+a{
+    font-family: 'MV Boli', sans-serif;
+    color: white;
+    font-size: 20px;
+    
+
+}
+p {
+    color:white;
+    font-size: 20px;
+    font-family: 'MV Boli', sans-serif;
+    text-align: center;
+}
+ul{
+    color:white;
+    font-size: 20px;
+    font-family: 'MV Boli', sans-serif;
+    list-style-position: inside; 
+}
+
+.midlleOfPage {
+    list-style-position: inside;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color:palevioletred;
+    padding: 10px;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 0px;
+    font-size: 30px;
+    text-align: center;
+    
+    
+  }
+  img{
+    width: 350px;
+    height: 400px;
+  }
